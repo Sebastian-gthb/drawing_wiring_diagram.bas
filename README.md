@@ -13,4 +13,4 @@ Currently is no option to save and restore the drawing.
 
 Screenshot:
 
-![Plan_Screenshot](https://github.com/user-attachments/assets/bce17cdc-a6e4-4ea5-9b83-5256f2e982c3)
+![Plan_Screenshot](https://github.com/user-attachments/assets/7076d9ab-fdcc-4900-af88-d1b0bc60218a)
