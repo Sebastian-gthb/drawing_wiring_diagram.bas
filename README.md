@@ -10,3 +10,7 @@ tab        : switch between the drawing area and the selection row of the symbol
 Esc        : end the program
 
 Currently is no option to save and restore the drawing.
+
+Screenshot:
+
+![Plan_Screenshot](https://github.com/user-attachments/assets/bce17cdc-a6e4-4ea5-9b83-5256f2e982c3)
